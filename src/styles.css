@@ -1,0 +1,79 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.Input {
+  font-weight: bold;
+  font-size: 20px;
+  color: darkblue;
+}
+
+.form {
+  width: 500px;
+  height: 500px;
+  border: 2px solid lawngreen;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.listTitle {
+  padding-left: 30px;
+  padding-top: 30px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.addButton {
+  margin-top: 70px;
+  margin-left: 30px;
+}
+.box {
+  text-align: left;
+  margin-top: 70px;
+  margin-left: 100px;
+  height: 400px;
+  width: 600px;
+
+  border: 1px solid darkolivegreen;
+  box-shadow: 5px 5px 8px darkcyan;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  justify-content: space-between;
+}
+
+.Select {
+  margin-left: 60px;
+  margin-top: 20px;
+  width: 300px;
+}
+.selectTitle {
+  font-weight: bold;
+  font-size: 20px;
+}
+.name {
+}
+.exp {
+}
+.speciality {
+}
+
+/* .unique {
+  height: 400px;
+  width: 1000px;
+} */
